@@ -12,6 +12,11 @@ Each time an enemy is hit, it will strike back, unless it is defeated. The enemi
 Week 2 homework for Skill Distillery Java bootcamp.
 Mario themed text based game designed for the user to defeat opponents and utilize basic strategies to achieve objects.
 
+### Unique Features
+Critical Hit extra damage from enemies
+Random 0% hit attacks from opponents that enable user to escape damage.
+Attack moves with varying results depended upon the opponent.
+The option for varying storylines depended upon user play.
 
 
 ### Technologies Used
@@ -27,9 +32,14 @@ I learned more about to design a linear game solely with Object Oriented program
 This was truly a fun program.  Joe and I, also learned to divide work respective and to tackle a single program without duplicate code.
 
 
-
-
 ### Attack Plan
 My programming partner, Joe, and I first created a UML diagram to layout a linear game structure and to identify the classes, methods, and variables we would be using.  We then took the classes and set them up in a way that we could take advantage of inheritance and minimize the amount of duplicated work.  Through encapsulation, we were able to secure our work and make our field variables protected so only our package would be able to access them.
 
 Once we had the different classes set up, we were able to create a main method with the game flow and instantiate various objects to take on properties of their different classes so we could use them in our game.  Once we had the main outline structured and all the objects instantiated, we could focus on the storyline, the user experience, and some of our stretch goals.
+
+### Wish List Additions
+Even though we weren't able to implement, we recognize how some of these features could enhance End-user experience.
+creating an array of a board where the user can navigate the board and find treasures.
+Added more abilities
+Multiple dimensions arrays to allow the user to navigate different levels.
+Emoji artwork.
